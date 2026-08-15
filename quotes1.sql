@@ -1,0 +1,8 @@
+CREATE TABLE quotes (
+    id SERIAL PRIMARY KEY,
+    quote TEXT NOT NULL,
+    source VARCHAR(100) NOT NULL,
+    favorite BOOLEAN NOT NULL,
+    date_entered TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
