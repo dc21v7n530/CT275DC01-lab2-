@@ -2,9 +2,10 @@
 
 Học kỳ 3, Năm học: 2025-2026
 
-<<<<<<< HEAD
 **Họ tên**: Bùi Hữu Nhân
+
 **MSSV**: DC21V7N530
+
 **Lớp HP**: CT275DC01
 
 ## Triển khai trên nginx
