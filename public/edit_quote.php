@@ -13,7 +13,10 @@ if (!$has_access) {
     $error_message = 'Bạn không có quyền truy cập trang này';
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 56c1fd8d19ba5054e65bf7fee5f64f78a3b57817
 ?>
 
 <!--
