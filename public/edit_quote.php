@@ -13,6 +13,7 @@ if (!$has_access) {
     $error_message = 'Bạn không có quyền truy cập trang này';
 }
 
+
 ?>
 
 <!--
